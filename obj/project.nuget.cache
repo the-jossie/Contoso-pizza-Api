@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v69Za1OFfGa8JYS3tfHpjm0aDzn33gJJbVv1mpMOuu2X8mSM3MwrlYKxNYYLnGrl4PPTBZ3lfzwaeYXSVGUtZw==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Downloads/Workspace/devjo/dotnet/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
