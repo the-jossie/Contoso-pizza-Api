@@ -30,3 +30,4 @@
 /Users/macbookpro/Downloads/Workspace/devjo/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /Users/macbookpro/Downloads/Workspace/devjo/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /Users/macbookpro/Downloads/Workspace/devjo/dotnet/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/macbookpro/Downloads/Workspace/devjo/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
